@@ -1,2 +1,2 @@
-# Python_and_Arduino
+# Python and Arduino
 Tests with python and Arduino
